@@ -1,0 +1,6 @@
+site_name: My Docs
+
+nav: 
+  - Home: index.md
+  - Test: new-page.md
+  - level2: test.md
