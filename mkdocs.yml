@@ -4,3 +4,6 @@ nav:
   - Home: index.md
   - Test: new-page.md
   - level2: test.md
+
+theme:
+  name: material
